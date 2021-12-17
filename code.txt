@@ -37,3 +37,5 @@ gzip on;
 gzip_disable "MSIE [1-6]\\.(?!.*SV1)";
 gzip_types text/plain text/css text/javascript image/svg+xml image/x-icon application/javascript application/x-javascript;
 gzip_vary on;
+
+#It will reduce server load
